@@ -15,3 +15,13 @@
 
 # Images: 
 
+![image](https://github.com/Durgesh4993/wether/assets/98798977/257d423e-71f5-423d-8c94-723f887e638b)
+
+![image](https://github.com/Durgesh4993/wether/assets/98798977/c6b5eab2-b617-4ef7-94c5-453841fdc44d)
+
+![image](https://github.com/Durgesh4993/wether/assets/98798977/dee8d82e-9cc3-46ec-954c-935989cc218c)
+
+![image](https://github.com/Durgesh4993/wether/assets/98798977/2284a556-30f7-48bc-8a4f-8274067166c7)
+
+There are multiple colors are available.
+
